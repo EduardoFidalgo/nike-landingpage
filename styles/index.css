@@ -515,3 +515,10 @@ footer {
 .arrow {
     font-size: 18px;
 }
+
+/* Responsividade */
+@media (max-width: 768px) {
+    footer {
+        text-align: center;
+    }
+}
